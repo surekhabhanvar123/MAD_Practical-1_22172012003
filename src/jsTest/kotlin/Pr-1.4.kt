@@ -10,6 +10,5 @@ fun main() {
     else
         "$a is odd"
     println(s)
-}
 
 
